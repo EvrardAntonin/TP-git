@@ -1,0 +1,23 @@
+commit 1f3788c54ca6ed4da98d8934af8352597380d143
+Author: Antonin Evrard <a.evrard@iia-laval.fr>
+Date:   Thu Jan 31 13:58:55 2019 +0100
+
+    display copyright
+
+commit b5216135f6083f5c9998b770d3081bff7bb82cc6
+Author: Antonin Evrard <a.evrard@iia-laval.fr>
+Date:   Thu Jan 31 13:55:57 2019 +0100
+
+    Add file header
+
+commit b4d4217bd7de1b2dc580dba66d9d388708907c7d
+Author: Antonin Evrard <a.evrard@iia-laval.fr>
+Date:   Thu Jan 31 13:54:37 2019 +0100
+
+    Add build time
+
+commit 511684fa6aa698f895f26b8803a61c5112d4e331
+Author: Antonin Evrard <a.evrard@iia-laval.fr>
+Date:   Thu Jan 31 13:53:15 2019 +0100
+
+    Initial commit
